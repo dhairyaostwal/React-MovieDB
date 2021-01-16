@@ -1,0 +1,58 @@
+body {
+  background-color: #522546;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.imgCard {
+  max-height: 160px;
+}
+
+.navbar {
+  font-size: 3rem;
+  font-family: Source Code Pro;
+  color: #e23e57;
+  background-color: #311d3f;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.footer {
+  bottom: 0px;
+  position: absolute;
+  color: #88304e;
+  background-color: #311d3f;
+  font-size: 1.5rem;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.btn-primary {
+  background-color: #e23e57;
+  border: #e23e57;
+}
+
+.btn-primary:hover {
+  color: #ffffff;
+  background-color: #000;
+  border: #000;
+}
+
+.footer,
+.card {
+  font-family: Source Code Pro;
+}
+
+.card-text {
+  text-align: left;
+}
+
+.cardSpacing {
+  margin-bottom: 1rem;
+}
